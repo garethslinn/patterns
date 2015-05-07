@@ -19,7 +19,7 @@ var Robot = ( function() {
         moveHeadRight : turnHeadRight
     };
 
-} )( window );
+} )();
 
 Robot.moveHeadLeft();
 Robot.moveHeadRight();

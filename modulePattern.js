@@ -24,7 +24,7 @@ var Robot = ( function() {
     }
 
     return Robot;
-} )( window );
+} )();
 
 var robot = new Robot();
 robot.turnHeadLeft();
